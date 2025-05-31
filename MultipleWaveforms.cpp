@@ -92,5 +92,6 @@ int main(void)
         //wait 1 ms
         System::Delay(1);
     }
+	return 0;
 }
 
