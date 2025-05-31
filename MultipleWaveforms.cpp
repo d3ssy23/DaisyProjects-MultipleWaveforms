@@ -91,6 +91,7 @@ int main(void)
         }
         //wait 1 ms
         System::Delay(1);
+		__WFI();
     }
 	return 0;
 }
